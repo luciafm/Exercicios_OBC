@@ -3,4 +3,4 @@
 
 # Questão 01 -Listas:
 *A questão pedia uma lista não ordenada, dentro de outras listas não ordenadas. O professor deu a imagem de como deveria ficar o resultado final e com base nos meus conhecimentos, fiz o código sem consulta. 
-*Foi um exercício simples, porém precisava de atenção para os momentos de abrir e fechar as tags <ul>, afim de manter a ordem correta.
+*Foi um exercício simples, porém precisava de atenção para os momentos de abrir e fechar as tags das listas afim de manter a ordem correta.
