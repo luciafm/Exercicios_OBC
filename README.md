@@ -15,5 +15,12 @@
 
 # Questão 03 -Tabelas:
 * A questão pedia para criar uma tabela com 2 colunas e 8 linhas, contendo as massas do sistema solar.
-* Foi usado os novos conhecinhementos aprendido nas aulas de tabela para realizar as questões.
+* Foi usado os novos conhecinhementos aprendido nas aulas de tabela para realizar a questão.
 * Após estudar a documentação, dei uma aprimorada no exercícios usando a tag colgroup para colorir as colunas e resolvi fazer uma fonte para a tabela, onde eu aprendi que não tem uma tag para isso, é necessário colocar na tag p e depois estilizar ela, fiz isso no próprio HTML com a tag style.
+
+# Questão 04 -Formulários:
+* A questão pedia para criar um formulário de cadastro na liga dos astronautas;
+* Foi usado os conhecimentos aprendidos nas aulas de formulários para realizar a questão; 
+* O código foi organizado por meio de divs, permitindo uma melhor leitura;
+* Vários tipos diferentes de inputs foram cobrados, o que foi excelente para praticar e me familiarizar com eles;
+* Além disso, ainda estudei a documentação para conseguir fazer a parte do textarea.
