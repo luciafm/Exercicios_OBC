@@ -6,7 +6,7 @@
 * O professor deu a imagem de como deveria ficar o resultado final e com base nos meus conhecimentos, fiz o código sem consulta. 
 * Foi um exercício simples, porém precisava de atenção para os momentos de abrir e fechar as tags das listas afim de manter a ordem correta.
 
-#Questão 02 -Guia das Galaxias:
+# Questão 02 -Guia das Galaxias:
 * A questão pedia pra criar 3 páginas HTML contendo informações sobre galaxias e imagens. E depois fazer os links entre as páginas; 
 * Assim como na questão anterior, o professor deu a imagem de como deveria ficar o resultado final e eu fiz com meus conhecimentos;
 * Foi usando novos conhecimentos para realizar a questão, como as tags: img e a;
