@@ -10,4 +10,4 @@
 * A questão pedia pra criar 3 páginas HTML contendo informações sobre galaxias e imagens. E depois fazer os links entre as páginas; 
 * Assim como na questão anterior, o professor deu a imagem de como deveria ficar o resultado final e eu fiz com meus conhecimentos;
 * Foi usando novos conhecimentos para realizar a questão, como as tags: img e a;
-* Na primeira tentativa de linkar as páginas não funcionou, mas foi porque os arquivos não estavam na mesma página. Após mover todos para a mesma página, funcionou perfeitamente.
+* Na primeira tentativa de linkar as páginas não funcionou, mas foi porque os arquivos não estavam na mesma página. Após realizar as mundanças, funcionou perfeitamente.
