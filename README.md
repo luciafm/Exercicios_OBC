@@ -1,5 +1,5 @@
-# Exercicios_OBC
-* Esse repositório serve como registro dos meus estudos de <HTML> pela OneBitCode. Aqui irei colocar todos os exercícios realizados durante as aulas, conhecimentos adquiridos e dificuldades encontradas.
+# Exercicios_HTML_OBC
+* Esse repositório serve como registro dos meus estudos de HTML pela OneBitCode. Aqui irei colocar todos os exercícios realizados durante as aulas, conhecimentos adquiridos e dificuldades encontradas.
 
 # Questão 01 -Listas:
 * A questão pedia uma lista não ordenada, dentro de outras listas não ordenadas. 
