@@ -1,8 +1,5 @@
 # Exercicios_OBC
-* Esse repositório serve como registro dos meus estudos de HTML + CSS pela OneBitCode. Aqui irei colocar todos os exercícios realizados durante as aulas, conhecimentos adquiridos e dificuldades encontradas.
-
-# QUESTÕES DE HTML
-* Nessas questões o professor dava a imagem de como deveriam ficar os resultados e com base nos meus conhecimentos, fazia os códigos sem consulta! 
+* Esse repositório serve como registro dos meus estudos de <HTML> pela OneBitCode. Aqui irei colocar todos os exercícios realizados durante as aulas, conhecimentos adquiridos e dificuldades encontradas.
 
 # Questão 01 -Listas:
 * A questão pedia uma lista não ordenada, dentro de outras listas não ordenadas. 
@@ -27,5 +24,3 @@
 * Essa foi a última questão do módulo de HTML, o desafio consistia em montar um site completo da SpaceX, com links navegáveis entre as páginas, forms de contato, imagens e textos.
 * Eu amei fazer, foi excelente para revisar tudo que eu aprendi ao longo do módulo. Além disso, também usei as tags semânticas para organizar ainda mais o meu código.
 * Felizmente, não tive dificuldades na realização do desafio e quando fui conferir o resultado, estava bem semelhante ao do professor. Sinal de que consegui aprender o conteúdo com perfeição.
-
-# QUESTÕES DE CSS
